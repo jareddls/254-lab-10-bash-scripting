@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/bin/bash
 #to run the script please provide filename followed by hash from the publisher.
 
 #if there is an error with the filename
